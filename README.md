@@ -9,7 +9,7 @@ Kök = 7
 
 ```
 root 7'dir. root'un solunda 5 bulunur.
-										7
+					7
                                        / \
                                       5   8
                                      / \   \
